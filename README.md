@@ -1,2 +1,9 @@
 # Resources
-Keep adding 
+
+Research Internships
+
+- Inria 
+- MITACS
+- DAAD-WISE
+- 
+
