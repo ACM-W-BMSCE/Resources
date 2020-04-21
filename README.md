@@ -12,3 +12,5 @@ Scholarships for Women
 - Adobe Women
 
 
+https://github.com/riabhatia24/Talks-Workshops/blob/master/Important%20Scholarships.pdf
+
